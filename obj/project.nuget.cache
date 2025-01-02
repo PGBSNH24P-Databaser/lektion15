@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EyA4kFBAuQWxBeM2hpHVDIZ4dtMxaAVG2I+HSGLwOYEV+YBug3ARUlK4ySHYKrCejQdkSKPZEZc6S63tycSyMg==",
+  "success": true,
+  "projectFilePath": "/home/enander/dbs-plus/lektion15/lektion15.csproj",
+  "expectedPackageFiles": [
+    "/home/enander/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

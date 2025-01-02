@@ -1,0 +1,14 @@
+/home/enander/dbs-plus/lektion15/bin/Debug/net8.0/lektion15
+/home/enander/dbs-plus/lektion15/bin/Debug/net8.0/lektion15.deps.json
+/home/enander/dbs-plus/lektion15/bin/Debug/net8.0/lektion15.runtimeconfig.json
+/home/enander/dbs-plus/lektion15/bin/Debug/net8.0/lektion15.dll
+/home/enander/dbs-plus/lektion15/bin/Debug/net8.0/lektion15.pdb
+/home/enander/dbs-plus/lektion15/obj/Debug/net8.0/lektion15.GeneratedMSBuildEditorConfig.editorconfig
+/home/enander/dbs-plus/lektion15/obj/Debug/net8.0/lektion15.AssemblyInfoInputs.cache
+/home/enander/dbs-plus/lektion15/obj/Debug/net8.0/lektion15.AssemblyInfo.cs
+/home/enander/dbs-plus/lektion15/obj/Debug/net8.0/lektion15.csproj.CoreCompileInputs.cache
+/home/enander/dbs-plus/lektion15/obj/Debug/net8.0/lektion15.dll
+/home/enander/dbs-plus/lektion15/obj/Debug/net8.0/refint/lektion15.dll
+/home/enander/dbs-plus/lektion15/obj/Debug/net8.0/lektion15.pdb
+/home/enander/dbs-plus/lektion15/obj/Debug/net8.0/lektion15.genruntimeconfig.cache
+/home/enander/dbs-plus/lektion15/obj/Debug/net8.0/ref/lektion15.dll
